@@ -19,7 +19,7 @@ This notebook addresses four key questions:
 ## How to Run
 
 1. Clone the repository:
-    git clone https://github.com/your-username/email-campaign-analysis.git
+    git clone https://github.com/gaurav-chhajer/Email-Campaign-Analysis.git
     cd email-campaign-analysis
 
 2. (Optional) Create a virtual environment:
